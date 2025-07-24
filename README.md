@@ -1,5 +1,7 @@
 # Gacha Pull Simulator
 
+Copied and modified from: `https://github.com/aesoopIT/afk_companion` Please reference readme.md file there for further detailed program use instructions. 
+
 A high-performance C++ application that simulates pull/drop rates for a gacha-style system. Results can be visualized using an accompanying Python script—Shoutout to SaiLus for the original Python scripting.
 
 This project is designed for speed, capable of running millions of simulations in seconds. It has two modes:
