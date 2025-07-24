@@ -1,0 +1,8 @@
+# Ignore the build directory
+/build/
+
+# Ignore VS Code specific files
+/.vscode/
+
+# Ignore generated CSV output files
+*.csv
