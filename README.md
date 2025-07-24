@@ -1,6 +1,6 @@
 # Gacha Pull Simulator
 
-A high-performance C++ application that simulates pull/drop rates for a gacha-style system. Results can be visualized using an accompanying Python script. Shoutout to SaiLus for the original Python scripting.
+A high-performance C++ application that simulates pull/drop rates for a gacha-style system. Results can be visualized using an accompanying Python script—Shoutout to SaiLus for the original Python scripting.
 
 This project is designed for speed, capable of running millions of simulations in seconds. It has two modes:
 * **Target Souls Mode**: Calculates the number of pulls required to obtain a specific number of "souls."
@@ -49,7 +49,7 @@ This is the simplest method for Windows.
     # Compile the program in Release mode for performance
      cmake --build build --config Release
     ```
-### Windows (MinGW/MSYS2 Method - What I use)
+### Windows (MinGW/MSYS2 Method - What I Use)
 For users who prefer the GCC compiler on Windows.
 
 1. Install MSYS2.
@@ -75,7 +75,7 @@ For users who prefer the GCC compiler on Windows.
 
     * **On Debian/Ubuntu**: `sudo apt install build-essential cmake`
 
-2. Install Python and libraries for visualization
+2. Install Python and libraries for visualization.
 
     * **On macOS**: `brew install python`
 
